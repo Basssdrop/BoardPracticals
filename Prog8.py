@@ -1,0 +1,1 @@
+reverse_and_double = lambda text: ''.join([char * 2 for char in text[::-1]])
